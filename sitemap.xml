@@ -2,38 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://junote.github.io/redo/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/wiki/</loc>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L0/L0/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/L0/Module/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/L0/ampilfier/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/L0/fiber/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/L0/fiber_transport/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/L0/laser/</loc>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L0/optical/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://junote.github.io/redo/network/L0/optical_receive/</loc>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L1/otu/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L2/hdlc/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L3/ip/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L4/tcp/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/network/L5/ssh/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
     </url>
     <url>
          <loc>https://junote.github.io/redo/tags/</loc>
-         <lastmod>2025-06-07</lastmod>
+         <lastmod>2025-06-09</lastmod>
     </url>
 </urlset>
